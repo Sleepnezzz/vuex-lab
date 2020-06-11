@@ -10,4 +10,4 @@ FROM nginx:stable-alpine as production-stage
 WORKDIR /usr/share/nginx/html
 COPY --from=step01 /usr/src/dist .
 # COPY ./default.conf /etc/nginx/conf.d/default.conf
-EXPOSE 81
+EXPOSE 80
