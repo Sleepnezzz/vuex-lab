@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### ตัวอย่าง vue lab project นะ ใช้ vue ui ในการสร้าง 
