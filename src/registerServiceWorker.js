@@ -31,7 +31,7 @@ if (process.env.NODE_ENV === 'production') {
   })
 }
 
-
+// debug with development
 if (process.env.NODE_ENV === 'development') {
   register(`${process.env.BASE_URL}service-worker.js`, {
     ready () {
