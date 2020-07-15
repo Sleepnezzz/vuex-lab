@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fdb47386067bd05089c8",
+    "revision": "24d6e90995a010daf2cd",
     "url": "/vuex-lab/css/app.cc6e07a4.css"
   },
   {
-    "revision": "41b5de43d11980cbca9cd835e9bbbfee",
+    "revision": "1926368acf6188d93d30619020f79cbd",
     "url": "/vuex-lab/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vuex-lab/js/about.b0621cad.js"
   },
   {
-    "revision": "fdb47386067bd05089c8",
-    "url": "/vuex-lab/js/app.eb62b10a.js"
+    "revision": "24d6e90995a010daf2cd",
+    "url": "/vuex-lab/js/app.8badc1e8.js"
   },
   {
     "revision": "5ffbe9522b9b0e7b9bab",
